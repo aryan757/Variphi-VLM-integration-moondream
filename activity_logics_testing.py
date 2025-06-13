@@ -5,9 +5,6 @@ from io import BytesIO
 import os
 from dotenv import load_dotenv  # type: ignore
 
-# MOONDRM_API_KEY = os.getenv("MOONDRM_API_KEY")
-
-# print("API KEY:", MOONDRM_API_KEY)
 
 load_dotenv()
 
@@ -15,6 +12,45 @@ load_dotenv()
 MOONDRM_API_KEY = os.getenv("MOONDRM_API_KEY")
 print("API KEY:", MOONDRM_API_KEY)
 model = md.vl(api_key=MOONDRM_API_KEY)
+
+########################################################################################################################
+
+
+
+# import torch
+# from transformers import AutoModelForCausalLM, AutoTokenizer
+# from PIL import Image
+# import time
+# import os
+# from dotenv import load_dotenv
+
+
+
+# # Check for available devices
+# if torch.backends.mps.is_available():
+#     device = torch.device("mps")
+#     print("Using MPS device")
+# elif torch.cuda.is_available():
+#     device = torch.device("cuda")
+#     print("Using CUDA device")
+# else:
+#     device = torch.device("cpu")
+#     print("Using CPU")
+
+
+# model = AutoModelForCausalLM.from_pretrained(
+# "vikhyatk/moondream2",
+# revision="2025-01-09",
+# trust_remote_code=True, 
+# device_map={"": "mps"},  
+# )
+
+
+
+########################################################################################################################
+
+
+
 
 
 
@@ -28,6 +64,8 @@ class MoondreamService:
     @staticmethod
     def load_image_from_file(file_path: str) -> Image.Image:
         return Image.open(file_path)
+    
+
 
 
     def get_present_activities(self, image: Image.Image):
@@ -76,7 +114,7 @@ class MoondreamService:
             ("spillage", "spillage"),
             ("waste", "waste"),
         ]
-
+        
         w, h = image.size
         print(w, h)
         # Step 1: Query which activities are present

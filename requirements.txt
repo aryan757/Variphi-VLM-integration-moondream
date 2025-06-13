@@ -5,3 +5,11 @@ python-multipart
 moondream
 requests
 python-dotenv 
+
+transformers 
+torch 
+pillow 
+einops
+pyvips-binary 
+pyvips
+accelerate
