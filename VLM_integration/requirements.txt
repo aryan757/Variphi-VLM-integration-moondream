@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pillow
+python-multipart
+moondream
+requests
+python-dotenv 
+opencv-python
+numpy
+
+transformers 
+torch 
+pillow 
+einops
+pyvips-binary 
+pyvips
+accelerate

@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+Pillow
+requests
+numpy
+retina-face
+opencv-python
+tf-keras
+timm
+scikit-learn
