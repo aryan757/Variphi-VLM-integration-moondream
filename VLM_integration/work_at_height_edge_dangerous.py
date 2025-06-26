@@ -285,12 +285,12 @@ def main():
     # --- EDIT BELOW AS NEEDED ---
     # Uncomment and set your folder paths
 
-    # Example: process images
-    process_images("construction", output_dir="output_inference_8")
-    print("==================done- images===================")
+    # # Example: process images
+    # process_images("construction", output_dir="output_inference_8")
+    # print("==================done- images===================")
 
     # Example: process videos
-    # process_videos("video-dataset", output_dir="output-dir", frame_interval=100)
+    process_videos("video-dataset", output_dir="output-dir", frame_interval=100)
 
     # For demonstration, you can uncomment one of the following lines:
     # process_images("image-dataset")

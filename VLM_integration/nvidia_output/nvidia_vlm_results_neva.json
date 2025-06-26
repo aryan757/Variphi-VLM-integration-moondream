@@ -1,0 +1,198 @@
+[
+  {
+    "image": "img_103.jpg",
+    "activities_detected": "Yes, there are signs of fire and smoke in this image. The fire is located on the right side of the image, coming out of a building's window. The smoke is visible in the air above the fire.",
+    "detailed_analysis": "The fire and smoke are located on the right side of the image, coming out of a building's window. The approximate coordinates or percentage position from the top-left corner are 60% from left, 40% from top. The size of the area where this activity is happening is 10% of the total image size.",
+    "annotated_image": "nvidia_detected_6790.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_116.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the left side of the image, and it is spreading to the vehicles on the road. The smoke is also visible on the left side of the image, and it is spreading to the right.",
+    "detailed_analysis": "This image shows a fire and smoke on a road. The fire is located on the left side of the image, and it is spreading to the vehicles on the road. The smoke is also visible on the left side of the image, and it is spreading to the right. The approximate coordinates or percentage position from the top-left corner are (30%, 40%). The size of the area where this activity is happening is approximately 50% of the image.",
+    "annotated_image": "nvidia_detected_162.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_667.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the trees. The smoke is visible in the sky, and it is spreading towards the left side of the image.",
+    "detailed_analysis": "The fire and smoke are located on the right side of the image, near the trees. The fire is approximately 40% from the top and 60% from the left. The smoke is visible in the sky, and it is spreading towards the left side of the image. The approximate coordinates are (40%, 60%) and (60%, 80%). The size of the area where this activity is happening is approximately 20% of the image.",
+    "annotated_image": "nvidia_detected_6600.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_105.jpg",
+    "activities_detected": "Yes, this image shows signs of fire, smoke, and flames. The fire is located on the top floor of the building, and smoke is visible coming out of the windows. The flames are visible on the right side of the image, and the smoke is billowing out of the windows on the left side. The fire appears to be spreading quickly, and the smoke is causing visibility issues for the firefighters.",
+    "detailed_analysis": "The fire is located on the top floor of the building, and smoke is visible coming out of the windows. The flames are visible on the right side of the image, and the smoke is billowing out of the windows on the left side. The fire appears to be spreading quickly, and the smoke is causing visibility issues for the firefighters.\n\nThe approximate coordinates or percentage position from the top-left corner are:\n\n*   Approximately 30% from left, 40% from top\n*   The size of the area where this activity is happening is approximately 50% of the image.",
+    "annotated_image": "nvidia_detected_6259.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_106.jpg",
+    "activities_detected": "Yes. Flames are visible in the bottom left corner of the image.",
+    "detailed_analysis": "The activity is happening in the bottom left corner of the image, approximately 30% from the left and 40% from the top. The size of the area is about 10% of the total image size.",
+    "annotated_image": "nvidia_detected_5417.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_258.jpg",
+    "activities_detected": "Yes, there are signs of fire in this image. The man's pants are on fire. The fire is located on the right side of the image.",
+    "detailed_analysis": "The fire is located on the right side of the image, approximately 70% from the left and 40% from the top. The size of the area where the fire is happening is about 10% of the total image size.",
+    "annotated_image": "nvidia_detected_3333.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_765.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located in the center of the image, and it is spreading to the right. The smoke is visible in the upper part of the image.",
+    "detailed_analysis": "The fire and smoke are located in the center of the image, spreading to the right. The approximate coordinates are 50% from left, 40% from top. The size of the area is 50% of the image.",
+    "annotated_image": "nvidia_detected_181.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_215.jpg",
+    "activities_detected": "Yes, this image shows signs of fire, smoke, and flames. The fire is located in the center of the image, and it is spreading rapidly. The smoke is visible in the upper part of the image, and it is spreading throughout the building. The flames are visible in the lower part of the image, and they are spreading rapidly. The fire-related hazards are located in the center of the image, and they are spreading rapidly.",
+    "detailed_analysis": "The fire is located in the center of the image, and it is spreading rapidly. The smoke is visible in the upper part of the image, and it is spreading throughout the building. The flames are visible in the lower part of the image, and they are spreading rapidly. The fire-related hazards are located in the center of the image, and they are spreading rapidly.\n\nThe approximate coordinates or percentage position from the top-left corner are:\n\n*   approximately 30% from left, 40% from top\n*   approximately 50% from left, 60% from top\n*   approximately 70% from left, 80% from top\n\nThe size of the area where this activity is happening is approximately 50% of the image.",
+    "annotated_image": "nvidia_detected_3253.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_610.jpg",
+    "activities_detected": "Yes, there are signs of fire, smoke, and flames in the image. The fire is located on the right side of the image, near the bottom. It is a large fire that is causing a lot of smoke and flames. The fire is also causing a lot of damage to the buildings and vehicles in the area.",
+    "detailed_analysis": "The fire is located on the right side of the image, near the bottom. It is a large fire that is causing a lot of smoke and flames. The fire is also causing a lot of damage to the buildings and vehicles in the area.\n\nThe fire is located at approximately 40% from the top and 60% from the left.\n\nThe size of the area where this activity is happening is approximately 20% of the image.",
+    "annotated_image": "nvidia_detected_5623.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_402.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the building's entrance. The smoke is visible in the background, rising from the fire. The fire appears to be spreading to the building, and the smoke is causing a hazardous situation.",
+    "detailed_analysis": "The fire and smoke are located in the middle of the image, approximately 50% from the left and 50% from the top. The approximate size of the area where the fire and smoke are visible is 20% of the total image width and height.",
+    "annotated_image": "nvidia_detected_8448.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_370.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the ceiling. The smoke is visible in the upper part of the image.",
+    "detailed_analysis": "The fire and smoke are located in the center of the image, approximately 50% from the left and 50% from the top. The area where the fire and smoke are happening is about 20% of the total image size.",
+    "annotated_image": "nvidia_detected_5993.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_398.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located in the bottom right corner of the image, near the wall. The smoke is visible in the upper part of the image, spreading towards the ceiling.",
+    "detailed_analysis": "The fire and smoke are located in the bottom right corner of the image, approximately 70% from the left and 30% from the top. The area where the fire is happening is about 20% of the total image size.",
+    "annotated_image": "nvidia_detected_5672.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_399.jpg",
+    "activities_detected": "Yes, this image shows signs of fire, smoke, and flames. The fire is located in the center of the image, coming out of a pipe or ventilation system. The smoke is visible in the upper part of the image, and the flames are visible in the lower part of the image. The fire appears to be spreading, and the smoke is causing visibility issues. The fire is a potential hazard, and immediate action should be taken to extinguish it.",
+    "detailed_analysis": "The fire, smoke, and flames are located in the center of the image, approximately 50% from the left and 50% from the top. The area where this activity is happening is approximately 50% of the total image size.",
+    "annotated_image": "nvidia_detected_3598.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_784.jpg",
+    "activities_detected": "Yes, this image shows signs of fire, smoke, flames, and fire-related hazards. The image shows a kitchen with a fire burning on the stove, causing smoke to fill the room. The fire has caused damage to the kitchen, with items scattered on the floor and the walls stained with smoke. The fire poses a significant risk to anyone in the building, and immediate action should be taken to extinguish it.",
+    "detailed_analysis": "The image shows a kitchen with a fire burning on the stove, causing smoke to fill the room. The fire has caused damage to the kitchen, with items scattered on the floor and the walls stained with smoke. The fire poses a significant risk to anyone in the building, and immediate action should be taken to extinguish it.\n\nThe approximate coordinates or percentage position from the top-left corner are:\n\n*   approximately 30% from left, 40% from top\n*   approximately 30% from right, 40% from bottom\n\nThe size of the area where this activity is happening is approximately 30% of the total image width and height.",
+    "annotated_image": "nvidia_detected_908.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_342.jpg",
+    "activities_detected": "Yes, this image shows a fire-related hazard. The hazard is a fire coming from a red object on the right side of the image. The fire is located on the right side of the image, near the wall.",
+    "detailed_analysis": "The fire-related hazard is located on the right side of the image, near the wall. It is approximately 70% from the left and 40% from the top of the image. The size of the area where this activity is happening is about 10% of the total image area.",
+    "annotated_image": "nvidia_detected_7381.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_142.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the left side of the image, near the ground, and is surrounded by smoke. The fire appears to be burning in an open area, and there are no visible fire-related hazards in the image.",
+    "detailed_analysis": "The fire and smoke are located on the left side of the image, near the ground, and are surrounded by smoke. The fire appears to be burning in an open area, and there are no visible fire-related hazards in the image. The approximate coordinates or percentage position from the top-left corner are (30%, 40%). The size of the area where this activity is happening is approximately 10% of the total image size.",
+    "annotated_image": "nvidia_detected_5436.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_630.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the bottom. It is a large fire that is causing a lot of smoke. The smoke is visible all the way up to the top of the image.",
+    "detailed_analysis": "The fire and smoke are located on the right side of the image, near the bottom. It is approximately 20% from the left and 10% from the top of the image. The size of the area where this activity is happening is about 10% of the total image size.",
+    "annotated_image": "nvidia_detected_3658.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_786.jpg",
+    "activities_detected": "Yes, this image shows a fire-related hazard. The image shows a kitchen with a stove on the left side. The stove appears to be burning, as there are flames visible coming out of the stove. The flames are coming out of the top of the stove, and they are burning the surrounding area. The flames are also causing the surrounding area to smoke. The smoke is visible in the image, and it is causing the kitchen to be filled with smoke. The smoke is causing the kitchen to be very dark and visibility to be low. The flames are also causing the kitchen to be very hot, and the heat is causing the kitchen to be very uncomfortable. The flames are also causing the kitchen to be very dangerous, as they could cause the kitchen to catch fire and cause a fire hazard. The flames are also causing the kitchen to be very noisy, as the flames are making a lot of noise. The flames are also causing the kitchen to be very messy, as the flames are causing the kitchen to be very dirty. The flames are also causing the kitchen to be very dangerous, as the flames could cause the kitchen to catch fire and cause a fire hazard. The flames are also causing the kitchen to be very dangerous, as the flames could cause the kitchen to catch fire",
+    "detailed_analysis": "The activity is happening in a kitchen. The approximate coordinates are 30% from left, 40% from top. The size of the area is 50% of the image.",
+    "annotated_image": "nvidia_detected_45.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_433.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the building. The smoke is visible in the background, rising into the sky.",
+    "detailed_analysis": "The fire and smoke are located on the right side of the image, near the building. The approximate coordinates or percentage position from the top-left corner are (30%, 40%). The size of the area where this activity is happening is approximately 30% of the total image width and 40% of the total image height.",
+    "annotated_image": "nvidia_detected_2573.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_93.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located in the center of the image, and the smoke is visible in the upper part of the image.",
+    "detailed_analysis": "The image shows a fire and smoke in the center of the image, with the smoke visible in the upper part of the image. The approximate coordinates or percentage position from the top-left corner are (30%, 40%). The size of the area where this activity is happening is approximately 30% of the total image size.",
+    "annotated_image": "nvidia_detected_5392.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_225.jpg",
+    "activities_detected": "Yes, this image shows a fire-related hazard. The image shows a man in a white shirt and gray pants standing in front of a burning desk. The desk is on fire, and the flames are visible, spreading across the desk and towards the ceiling. The man appears to be uninjured, but the fire is a significant hazard and poses a risk of injury to anyone in the area.",
+    "detailed_analysis": "The image shows a man in a white shirt and gray pants standing in front of a burning desk. The desk is on fire, and the flames are visible, spreading across the desk and towards the ceiling. The man appears to be uninjured, but the fire is a significant hazard and poses a risk of injury to anyone in the area.\n\nThe approximate coordinates or percentage position from the top-left corner are:\n\n*   Approximately 30% from left, 40% from top\n*   The size of the area where this activity is happening is approximately 10% of the image.",
+    "annotated_image": "nvidia_detected_2012.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_346.jpg",
+    "activities_detected": "Yes, this image shows a fire. The fire is located on the right side of the image, near the wall. The fire is a bright orange and yellow, and it is surrounded by smoke. The fire is also causing the wall to catch fire, and the flames are spreading quickly. The fire is a serious hazard, and it is important to take immediate action to put it out.",
+    "detailed_analysis": "The fire is located on the right side of the image, near the wall. The fire is a bright orange and yellow, and it is surrounded by smoke. The fire is also causing the wall to catch fire, and the flames are spreading quickly. The fire is a serious hazard, and it is important to take immediate action to put it out.",
+    "annotated_image": "nvidia_detected_4256.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_623.jpg",
+    "activities_detected": "Yes, there are signs of fire and smoke in the image. The fire is located on the left side of the image, near the buildings. The smoke is visible in the sky, and it is spreading towards the right side of the image.",
+    "detailed_analysis": "The fire and smoke are located on the left side of the image, near the buildings. The approximate coordinates are 30% from left and 40% from top. The size of the area where this activity is happening is approximately 20% of the total image size.",
+    "annotated_image": "nvidia_detected_6632.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_120.jpg",
+    "activities_detected": "Yes. Flames are visible in the bottom left corner of the image.",
+    "detailed_analysis": "The activity is happening in the bottom left corner of the image, approximately 30% from the left and 40% from the top. The size of the area is about 10% of the total image size.",
+    "annotated_image": "nvidia_detected_8918.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_118.jpg",
+    "activities_detected": "Yes. Flames are visible in the bottom left corner of the image.",
+    "detailed_analysis": "The flames are visible in the bottom left corner of the image, approximately 20% from the left and 10% from the top. The area where the activity is happening is about 10% of the total image size.",
+    "annotated_image": "nvidia_detected_3597.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_737.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located on the right side of the image, near the ceiling. The smoke is visible throughout the image, but it is particularly thick in the area where the fire is located.",
+    "detailed_analysis": "The fire and smoke are located in the kitchen of a restaurant. The fire is located on the right side of the image, near the ceiling, and the smoke is visible throughout the image. The approximate coordinates of the fire are (30%, 40%) from the top-left corner of the image, and the size of the area where this activity is happening is approximately 30% of the total image area.",
+    "annotated_image": "nvidia_detected_2365.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_735.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located in the upper right corner of the image, near the ceiling. The smoke is filling the room and is visible throughout the image.",
+    "detailed_analysis": "The fire and smoke are located in the upper right corner of the image, near the ceiling. The approximate coordinates are 70% from left and 40% from top. The size of the area where this activity is happening is approximately 20% of the total image area.",
+    "annotated_image": "nvidia_detected_5956.jpg",
+    "model_used": "neva"
+  },
+  {
+    "image": "img_720.jpg",
+    "activities_detected": "Yes, this image shows a fire and smoke. The fire is located in the upper right corner of the image, near the ceiling. The smoke is filling the entire room, making it difficult to see anything clearly. The fire appears to have started in the kitchen, as there are pots and pans on the stove that are on fire. The smoke is causing people to cough and struggle to breathe, and some are trying to put out the fire with water.",
+    "detailed_analysis": "The fire and smoke are located in the upper right corner of the image, near the ceiling. The approximate coordinates are 70% from left, 40% from top. The size of the area where this activity is happening is 20% of the total image size.",
+    "annotated_image": "nvidia_detected_6113.jpg",
+    "model_used": "neva"
+  }
+]

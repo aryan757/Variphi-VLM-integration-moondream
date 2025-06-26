@@ -1,0 +1,198 @@
+[
+  {
+    "image": "img_103.jpg",
+    "activities_detected": "Yes, the image shows a fire in a building, with smoke and flames coming from the building.",
+    "detailed_analysis": "A fire truck is parked in front of a building, with smoke and flames coming from the building. The fire truck is positioned in the middle of the scene, and firefighters are working to put out the fire.",
+    "annotated_image": "nvidia_detected_1717.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_116.jpg",
+    "activities_detected": "A fire is visible in the image, with a fire truck and a person standing near it.",
+    "detailed_analysis": "A fire is visible in the image, with a fire truck and a person standing near it. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_9323.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_667.jpg",
+    "activities_detected": "A large fire is burning on the side of a highway, with smoke billowing from it. There is a car driving down the highway, and a truck is also present in the scene.",
+    "detailed_analysis": "A large fire is burning on the side of a highway, with smoke billowing from it. There is a car driving down the highway, and a truck is also present in the scene. The approximate coordinates or percentage position from the top-left corner (e.g., 'approximately 30% from left, 40% from top'). Also estimate the size of the area where this activity is happening. Here is the image:",
+    "annotated_image": "nvidia_detected_706.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_105.jpg",
+    "activities_detected": "Yes, the image shows signs of fire, smoke, flames, or fire-related hazards. A fire truck is in the scene, and it is positioned high above the building.",
+    "detailed_analysis": "Yes, the image shows signs of fire, smoke, flames, or fire-related hazards. A fire truck is in the scene, and it is positioned high above the building.",
+    "annotated_image": "nvidia_detected_903.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_106.jpg",
+    "activities_detected": "A man is walking down the street with a cart, and there is a fire in the background.",
+    "detailed_analysis": "A man is walking down the street with a cart, and there is a fire in the background. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_3884.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_258.jpg",
+    "activities_detected": "A man is walking into a building with a fire in the lobby.",
+    "detailed_analysis": "A man is walking into a building with a fire in the lobby. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_2028.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_765.jpg",
+    "activities_detected": "The image shows a restaurant with a large fire burning in the kitchen area.",
+    "detailed_analysis": "The image shows a restaurant with a large fire burning in the kitchen area. The fire is located in the kitchen, which is a part of the restaurant. The fire is burning at a considerable height, which indicates that it is a significant fire. The fire is spreading rapidly, and the restaurant is currently under threat.",
+    "annotated_image": "nvidia_detected_1543.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_215.jpg",
+    "activities_detected": "Yes, the image shows a fire in a building. The building is a large, empty room with a black floor. There is a large white vase in the room, and a chair is located near the vase. The room appears to be empty, and there is no indication of any fire or smoke.",
+    "detailed_analysis": "Yes, the image shows a fire in a building. The building is a large, empty room with a black floor. There is a large white vase in the room, and a chair is located near the vase. The room appears to be empty, and there is no indication of any fire or smoke.",
+    "annotated_image": "nvidia_detected_297.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_610.jpg",
+    "activities_detected": "Yes, the image shows a truck on fire on a highway, with black smoke billowing from the vehicle.",
+    "detailed_analysis": "Yes, the image shows a truck on fire on a highway, with black smoke billowing from the vehicle. The truck is located on the left side of the highway, with a significant amount of black smoke billowing from it. The location is approximately 30% from left, 40% from top. The size of the area where this activity is happening is quite large, covering a significant portion of the highway.",
+    "annotated_image": "nvidia_detected_3711.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_402.jpg",
+    "activities_detected": "The image shows a building with a large fire in the background, and a car parked in front of it.",
+    "detailed_analysis": "The image shows a building with a large fire in the background, and a car parked in front of it. The car is parked in the middle of the scene, and the fire is visible from the top-left corner. The coordinates or percentage position from the top-left corner (e.g., 'approximately 30% from left, 40% from top') can be used to estimate the size of the area where this activity is happening.",
+    "annotated_image": "nvidia_detected_3424.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_370.jpg",
+    "activities_detected": "The image shows a building with a fire on the ground floor. There is a fire hydrant located near the building, and a fire extinguisher is also present.",
+    "detailed_analysis": "The image shows a building with a fire on the ground floor. There is a fire hydrant located near the building, and a fire extinguisher is also present.",
+    "annotated_image": "nvidia_detected_1584.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_398.jpg",
+    "activities_detected": "The image shows a building with a fire in the basement.",
+    "detailed_analysis": "The image shows a building with a fire in the basement. The building is located in a city, and the fire is located in the basement. The approximate coordinates or percentage position from the top-left corner (e.g., 'approximately 30% from left, 40% from top') is approximately 30 degrees, 45 degrees, and 45 degrees, respectively. The size of the area where this activity is happening is approximately 10 square meters.",
+    "annotated_image": "nvidia_detected_8472.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_399.jpg",
+    "activities_detected": "A fire is visible in the image, which is located on the side of a building.",
+    "detailed_analysis": "A fire is visible in the image, which is located on the side of a building. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_119.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_784.jpg",
+    "activities_detected": "Yes, the image shows a restaurant with a large explosion, smoke, and flames. The restaurant is located in a city, and the explosion is likely caused by a fire. The smoke and flames are coming from the kitchen area, which is a common area for cooking and dining. The large explosion is also visible in the image, which indicates that the restaurant has experienced an incident.",
+    "detailed_analysis": "Yes, the image shows a restaurant with a large explosion, smoke, and flames. The restaurant is located in a city, and the explosion is likely caused by a fire. The smoke and flames are coming from the kitchen area, which is a common area for cooking and dining. The large explosion is also visible in the image, which indicates that the restaurant has experienced an incident.",
+    "annotated_image": "nvidia_detected_8550.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_342.jpg",
+    "activities_detected": "Yes, the image shows a car parked in a garage with a person standing next to it. The person appears to be a man, and the car is parked in a garage.",
+    "detailed_analysis": "Yes, the image shows a car parked in a garage with a person standing next to it. The person appears to be a man, and the car is parked in a garage. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_8385.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_142.jpg",
+    "activities_detected": "None",
+    "detailed_analysis": "No concerning activities detected",
+    "annotated_image": null,
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_630.jpg",
+    "activities_detected": "Yes, the image shows a large fire on the highway, with black smoke billowing from it.",
+    "detailed_analysis": "Yes, the image shows a large fire on the highway, with black smoke billowing from it. The area is located on the left side of the highway, with the highway running through it. The fire is located on the right side of the highway, and it is burning in the middle of the highway. The fire is burning in the middle of the highway, and it is causing a large amount of smoke. The fire is burning in the middle of the highway, and it is causing a large amount of smoke.",
+    "annotated_image": "nvidia_detected_8051.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_786.jpg",
+    "activities_detected": "In the image, there is a small room with a toilet and a sink. A woman is standing in the room, possibly washing her hands. There are several other people in the room, some of them standing closer to the sink and others further away. Some of them are wearing aprons. The room appears to be a small kitchen or a bathroom.",
+    "detailed_analysis": "In the image, there is a small room with a toilet and a sink. A woman is standing in the room, possibly washing her hands. There are several other people in the room, some of them standing closer to the sink and others farther away. Some of them are wearing aprons. The room appears to be a small kitchen or a bathroom.",
+    "annotated_image": "nvidia_detected_3510.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_433.jpg",
+    "activities_detected": "A man is standing on a sidewalk in front of a building with a large fire raging in the background. There is a fire hydrant nearby, and a person is standing near the fire hydrant.",
+    "detailed_analysis": "A man is standing on a sidewalk in front of a building with a large fire raging in the background. There is a fire hydrant nearby, and a person is standing near the fire hydrant.",
+    "annotated_image": "nvidia_detected_676.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_93.jpg",
+    "activities_detected": "Yes, the image shows a large, dark cloud of smoke and fire. The smoke is coming from a fire, and the fire is located in the middle of the cloud.",
+    "detailed_analysis": "The image shows a large, dark cloud of smoke and fire. The smoke is coming from a fire, and the fire is located in the middle of the cloud.",
+    "annotated_image": "nvidia_detected_2380.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_225.jpg",
+    "activities_detected": "Yes, the image shows a group of people running away from a fire in a room with a desk and a laptop.",
+    "detailed_analysis": "A group of people is running away from a fire in a room with a desk and a laptop. The approximate coordinates or percentage position from the top-left corner (e.g., 'approximately 30% from left, 40% from top') are given. The size of the area where this activity is happening is given as a percentage.",
+    "annotated_image": "nvidia_detected_2681.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_346.jpg",
+    "activities_detected": "Yes, the image shows a truck on fire in a garage. There is a fire in the garage, and the truck is on fire.",
+    "detailed_analysis": "Yes, the image shows a truck on fire in a garage. There is a fire in the garage, and the truck is on fire. The garage is located in a residential area, and the fire is located in the garage. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_965.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_623.jpg",
+    "activities_detected": "Yes, the image shows a large black smoke cloud rising from a large truck on the highway.",
+    "detailed_analysis": "Yes, the image shows a large black smoke cloud rising from a large truck on the highway. The truck is located on the left side of the highway, and it is emitting a large amount of black smoke. The area where this activity is happening is a large area, covering a significant portion of the highway. The truck is located on the left side of the highway, and it is emitting a large amount of black smoke. The area where this activity is happening is a large area, covering a significant portion of the highway.",
+    "annotated_image": "nvidia_detected_1093.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_120.jpg",
+    "activities_detected": "A fire is visible in the image, with a car on fire. There are several cars in the scene, some of which are on fire. The fire is located on the side of the road, and there are several people in the area, some of whom are standing near the fire.",
+    "detailed_analysis": "A fire is visible in the image, with a car on fire. There are several cars in the scene, some of which are on fire. The fire is located on the side of the road, and there are several people in the area, some of whom are standing near the fire. The fire is located on the side of the road, and there are several people in the area, some of whom are standing near the fire.",
+    "annotated_image": "nvidia_detected_5641.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_118.jpg",
+    "activities_detected": "A man is standing on the side of the road, near a car, with a fire extinguisher.",
+    "detailed_analysis": "A man is standing on the side of the road, near a car, with a fire extinguisher. The area is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_1644.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_737.jpg",
+    "activities_detected": "A restaurant is shown with a dining area and a kitchen area. There is a fire in the kitchen area, which is located near the dining area. The fire appears to be burning on the stove, and there is smoke coming from the kitchen area.",
+    "detailed_analysis": "A restaurant is shown with a dining area and a kitchen area. There is a fire in the kitchen area, which is located near the dining area. The fire appears to be burning on the stove, and there is smoke coming from the kitchen area. The fire is burning on the stove, and there is smoke coming from the kitchen area.",
+    "annotated_image": "nvidia_detected_9487.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_735.jpg",
+    "activities_detected": "In the image, there is a restaurant with a dining area and a kitchen. A man is standing in the kitchen, possibly preparing food. There are several chairs and a dining table in the restaurant. The kitchen is equipped with a sink, a refrigerator, and a microwave. The dining area has a few chairs, one of which is occupied by a person.",
+    "detailed_analysis": "In the image, there is a restaurant with a dining area and a kitchen. A man is standing in the kitchen, possibly preparing food. There are several chairs and a dining table in the restaurant. The kitchen is equipped with a sink, a refrigerator, and a microwave. The dining area has a few chairs, one of which is occupied by a person. The area is quite large, with a dining table occupying a significant portion of the space. The man is standing in the kitchen, which is a part of the dining area. The coordinates of the location are: 30\u00b030'0\"N, 80\u00b025'0\"E. The approximate position of the man standing in the kitchen is approximately 30% from left, 40% from top.",
+    "annotated_image": "nvidia_detected_689.jpg",
+    "model_used": "kosmos2"
+  },
+  {
+    "image": "img_720.jpg",
+    "activities_detected": "In the image, there is a restaurant with a dining area and a kitchen. A man is standing in the kitchen, possibly preparing food or cleaning up. There are several people in the restaurant, some of them standing near the dining area and others in the kitchen. Some of them are wearing backpacks, which might indicate that they are carrying their belongings or preparing to leave. The kitchen is equipped with a sink, a refrigerator, and a microwave. The dining area has a dining table and chairs, and there are also two chairs in the kitchen. The kitchen is well-lit, and there are two chairs in the dining area.",
+    "detailed_analysis": "The image shows a restaurant with a dining area and a kitchen. A man is standing in the kitchen, possibly preparing food or cleaning up. There are several people in the restaurant, some of them standing near the dining area and others in the kitchen. Some of them are wearing backpacks, which might indicate that they are carrying their belongings or preparing to leave. The kitchen is equipped with a sink, a refrigerator, and a microwave. The dining area has a dining table and chairs, and there are also two chairs in the kitchen. The kitchen is well-lit, and there are two chairs in the dining area. The area is described as a restaurant with a dining area and a kitchen. The man is standing in the kitchen, possibly preparing food or cleaning up. The area is described as a restaurant with a dining area and a kitchen.",
+    "annotated_image": "nvidia_detected_947.jpg",
+    "model_used": "kosmos2"
+  }
+]
