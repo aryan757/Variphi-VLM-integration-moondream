@@ -29,15 +29,17 @@ import cv2
 
 ##########################################---------API MODELs---------##########################################
 
-# load_dotenv()
+load_dotenv()
 
 # MOONDREAM_API_KEY = os.getenv("MOONDREAM_API_KEY")
-# MOONDREAM_API_SECOND_KEY = os.getenv("MOONDREAM_API_SECOND_KEY")
+MOONDREAM_API_SECOND_KEY = os.getenv("MOONDREAM_API_SECOND_KEY")
 
 # print("API KEY 1:", MOONDREAM_API_KEY)
 # print("API KEY 2:", MOONDREAM_API_SECOND_KEY)
 # model = md.vl(api_key=MOONDREAM_API_KEY)
 # model_2 = md.vl(api_key=MOONDREAM_API_SECOND_KEY)
+
+model = md.vl(api_key=MOONDREAM_API_SECOND_KEY)
 
 
 ##########################################---------LOCAL MODEL HUGGING FACE---------##########################################
@@ -58,12 +60,12 @@ else:
 
 
 
-model = AutoModelForCausalLM.from_pretrained(
-"vikhyatk/moondream2",
-revision="2025-01-09",
-trust_remote_code=True, 
-device_map={"": "mps"},  
-)
+# model = AutoModelForCausalLM.from_pretrained(
+# "vikhyatk/moondream2",
+# revision="2025-01-09",
+# trust_remote_code=True, 
+# device_map={"": "mps"},  
+# )
 
 
 
@@ -116,16 +118,27 @@ class MoondreamService:
         If no, return None.
         """
 
+        # prompt = (
+        #     "Does this image contain any of the following: waste, spillage ?"
+        #     "Respond only the ones that are present, separated by commas."
+        #     "If none are present, say 'none'."
+        # )
+
+        ## write the same way the way you have written in the phone_usage.py file , here write the prompt for waste and spillage
         prompt = (
-            "Does this image contain any of the following: waste, spillage ?"
-            "Respond only the ones that are present, separated by commas."
-            "If none are present, say 'none'."
+            "Does this image contain any of the following: waste or spillage ?"
+            "If yes, respond with 'Yes' followed by the one-liner clearly describing the entity involved and their approximate position in the frame. "
+            "Use location terms like 'on the top left', 'center', 'extreme right', etc. "
+            "If no such activity is visible, respond with 'None'."
         )
 
         query_response = model.query(image, prompt)
+        print("query_response========>", query_response)
         response_text = query_response["answer"] if isinstance(query_response, dict) else query_response
+        if "Yes" or "yes" and "waste" or "spillage" or "Waste" or "Spillage" in response_text.lower():
+            return "waste" + " " + "spillage" + " " + "Waste" + " " + "Spillage"
         print("Query Response:", response_text)
-        if any(word in response_text.lower() for word in ["none", "no"]):
+        if any(word in response_text.lower() for word in ["none", "no","No","None"]):
             return None
         return response_text.strip()
 
@@ -288,7 +301,7 @@ def main():
     # Uncomment and set your folder paths
 
     # Example: process images
-    process_images("fire", output_dir="output_inference_7")
+    process_images("waste_spillage_data", output_dir="output_inference_7")
     print("==================done- images===================")
 
     # Example: process videos
